@@ -1,0 +1,677 @@
+
+north and middle andaman
+umaria
+satara
+bhopal hq
+dholpur
+north sikkim
+prakasam
+east nimar
+dakshina kannada
+nadia
+ganj
+karur
+chennai
+karimganj
+chengalpattu
+karnal
+phek
+tiruvarur
+bilaspur (hp)
+dhamtari
+mathura
+patna hq
+mandla
+bhind
+kochi
+khandwa
+muktsar
+patiala
+ahmedabad
+banaskantha
+east siang
+jalaun
+upper siang
+chamba
+angul
+bharuch
+bathinda
+hamirpur
+sidhi
+south dinajpur
+kanpur
+nayagarh
+north karnataka
+chikkaballapur
+ujjain
+pulwama
+bilaspur(cgh)
+ghaziabad
+mokokchung
+raichur
+jind
+ranchi
+pithoragarh
+hamirpur(hp)
+ahmed nagar
+jamnagar
+tapi
+the dangs
+bahraich
+navsari
+shopian
+muzaffarpur
+kendujhar
+nagapattinam
+bangalore hq
+meerut
+south bengal
+hingoli
+lower subansiri
+palamau
+rajgarh
+bijnor
+perambalur
+bankura
+shahdol
+bhandara
+north 24 parganas
+srikakulam
+barwani
+tawang
+gondia
+harda
+jammu
+anuppur
+karim nagar
+uttarkashi
+anand
+bokaro
+imphal west
+deoghar
+farrukhabad
+ropar
+kiphire
+samastipur
+gandhi nagar
+narayanpur
+panch mahals
+lakhisarai
+ambala
+west khasi hills
+junagadh
+jaisalmer
+south andaman
+bijapur(cgh)
+bareilly
+kodagu
+lucknow  hq
+dibrugarh
+jaintia hills
+howrah
+allahabad
+namakkal
+goa-panaji
+ahmedabad hq
+hyderabad
+rupnagar
+chittoor
+poonch
+tuticorin
+east sikkim
+rewari
+jhalawar
+nellore
+chhindwara
+k.v.rangareddy
+mahesana
+panchkula
+dehradun
+kozhikode
+etawah
+bhiwani
+medinipur
+mahoba
+south delhi
+vidisha
+mahasamund
+munger
+ajmer
+almora
+sonitpur
+udham singh nagar
+gopalganj
+dhule
+udaipur
+alwar
+korba
+rajsamand
+virudhunagar
+mirzapur
+faridabad
+buxar
+gurdaspur
+bandipur
+damoh
+baran
+neemuch
+kurnool
+jhabua
+chittorgarh
+kottayam
+amritsar
+gonda
+mahe
+garhwa
+kanpur dehat
+cuddapah
+valsad
+north delhi
+villupuram
+papum pare
+durg
+mahabub nagar
+bongaigaon
+narsinghpur
+daman
+west siang
+sirsa
+yamuna nagar
+kulgam
+calcutta hq
+sant kabir nagar
+rohtak
+raigarh(mh)
+haveri
+ganjam
+west midnapore
+rohtas
+moga
+churachandpur
+north east delhi
+delhi
+tiruvannamalai
+barnala
+west sikkim
+tikamgarh
+khargone
+banda
+ramgarh
+purnia
+boudh
+sheopur
+arwal
+saharanpur
+mohali
+vellore
+nanded
+tiruchy
+lohit
+south garo hills
+lohardaga
+koderma
+koriya
+patna
+dahod
+longleng
+hailakandi
+champhai
+tiruchirappalli
+marigaon
+dungarpur
+pilibhit
+bagalkot
+barabanki
+nilgiris
+chandigarh region
+kurung kumey
+lakshadweep
+basti
+gaya
+doda
+east delhi
+lucknow
+south tripura
+faridkot
+kasargod
+una
+jalor
+pathanamthitta
+dindori
+panna
+haridwar
+ri bhoi
+mansa
+nashik
+serchhip
+shimla hq
+sonipat
+pakur
+south sikkim
+kaushambi
+bhadrak
+guna
+mahendragarh
+raigarh
+guwahati hq
+south 24 parganas
+jajapur
+puri
+bundi
+nabarangapur
+sitapur
+indore
+erode
+pratapgarh
+imphal east
+sagar
+aurangabad
+katihar
+koppal
+nainital
+solapur
+east midnapore
+kanyakumari
+surguja
+amreli
+udupi
+chennai region
+churu
+madurai
+north west delhi
+pudukkottai
+vizianagaram
+sonbhadra
+kishanganj
+yavatmal
+idukki
+murshidabad
+ernakulam
+surendra nagar
+kargil
+saiha
+mumbai
+warangal
+betul
+wardha
+thiruvananthapuram
+nawanshahr
+reasi
+senapati
+seoni
+darrang
+porbandar
+s.o
+jamtara
+karaikal
+nicobar
+nandurbar
+azamgarh
+north tripura
+sitamarhi
+giridh
+moradabad
+ananthapur
+malappuram
+gulbarga
+ariyalur
+jaipur hq
+balaghat
+north goa
+ambedkar nagar
+bagpat
+arlu
+bharatpur
+bhagalpur
+north eastern
+patan
+latur
+balangir
+debagarh
+chatra
+pondicherry
+nalgonda
+khorda
+jalandhar
+madhepura
+bhopal
+west godavari
+tamenglong
+solan
+hoshangabad
+shivpuri
+jashpur
+adilabad
+hisar
+mon
+srinagar
+auraiya
+ratnagiri
+pune
+varanasi east
+gwalior
+berhampur
+shajapur
+bikaner
+sangli
+jhajjar
+karbi anglong
+jehanabad
+firozpur
+pauri garhwal
+kanker
+goalpara
+east kameng
+peren
+malda
+sangrur
+bardhaman
+nagaon
+ramanathapuram
+west tripura
+shrawasti
+barmer
+dhemaji
+sirohi
+jalpaiguri
+rajnandgaon
+dimapur
+chamoli
+kolasib
+kendrapara
+gurgaon
+ludhiana
+palakkad
+satna
+north cachar hills
+shimla
+darbhanga
+burhanpur
+tinsukia
+faizabad
+dewas
+bangalore
+gumla
+hathras
+dharmapuri
+golaghat
+davangere
+singrauli
+wayanad
+fatehabad
+srinagar hq
+morena
+siddharthnagar
+kushinagar
+tirunelveli
+deoria
+thanjavur
+tarn taran
+kangra
+aizawl
+jhansi
+adrymbai
+jagatsinghapur
+kheri
+vadodara
+bhilwara
+buldhana
+etah
+mandsaur
+west delhi
+kokrajhar
+kathua
+jaipur
+south west delhi
+sheohar
+shillong hq
+rayagada
+vijayawada
+tumkur
+nawada
+sindhudurg
+begusarai
+fatehpur
+rajauri
+fatehgarh sahib
+dumka
+calicut
+birbhum
+hassan
+kinnaur
+puruliya
+tehri garhwal
+osmanabad
+baleswar
+bargarh
+fazilka
+bhojpur
+dhalai
+south karnataka
+gorakhpur
+salem
+shimoga
+jodhpur
+sibsagar
+districtname
+chitrakoot
+mainpuri
+koraput
+chandigarh hq
+pali
+null
+maharajganj
+araria
+sundergarh
+east godavari
+tuensang
+west nimar
+west singhbhum
+mayurbhanj
+mammit
+sheikhpura
+shahjahanpur
+sahibganj
+jalgaon
+chhatarpur
+rudraprayag
+bijapur
+kohima
+north bengal and sikkim
+banka
+seraikela-kharsawan
+udhampur
+west kameng
+lunglei
+latehar
+i
+muzaffarnagar
+khunti
+kaimur (bhabua)
+kolar
+jalna
+datia
+kalahandi
+alirajpur
+sambalpur
+ghazipur
+dantewada
+yadgir
+nalanda
+saran
+mysore
+thane
+krishnagiri
+hoshiarpur
+nagpur
+bageshwar
+gariaband
+banswara
+bangalore rural
+varanasi
+chitradurga
+nagaur
+chandrapur
+rampur
+dhubri
+washim
+karauli
+champawat
+sultanpur
+bellary
+krishna
+theni
+bijapur(kar)
+sirmaur
+tirap
+north dinajpur
+budaun
+lower dibang valley
+jamui
+surat
+diu
+pathankot
+katni
+bidar
+dindigul
+madhubani
+ kargil
+nizamabad
+ambala  hq
+raisen
+sant ravidas nagar
+gautam buddha nagar
+jharsuguda
+thoubal
+sawai madhopur
+ukhrul
+chandel
+kanchipuram
+kanpur nagar
+agra
+beed
+muddebihal
+changlang
+ganganagar
+godda
+sonapur
+chamrajnagar
+lawngtlai
+east garo hills
+chandauli
+kolkata
+kannauj
+mandi
+tiruvallur
+simdega
+coimbatore
+rajkot
+leh
+bhubaneswar hq
+amravati
+kurukshetra
+east champaran
+hazaribag
+ashok nagar
+kota
+unnao
+visakhapatnam
+gadchiroli
+cuttack
+alappuzha
+barpeta
+trivandrum  hq
+sabarkantha
+kolhapur
+new delhi
+kullu
+hanumangarh
+gadag
+bulandshahr
+dhanbad
+ratlam
+firozabad
+zunhebotto
+jyotiba phule nagar
+kamrup
+east khasi hills
+dausa
+supaul
+khammam
+nuapada
+hooghly
+bishnupur
+west garo hills
+darjiling
+nalbari
+central delhi
+lalitpur
+jorhat
+hyderabad city
+west champaran
+kachchh
+janjgir-champa
+malkangiri
+kheda
+narmada
+aurangabad(bh)
+hardoi
+baramulla
+upper subansiri
+panipat
+vaishali
+belgaum
+dibang valley
+kaithal
+chickmagalur
+calcutta
+urwati
+khagaria
+lahul & spiti
+sivaganga
+south goa
+ramanagar
+tonk
+parbhani
+ballia
+kapurthala
+kollam
+bastar
+bhavnagar
+kupwara
+sehore
+raipur
+dhar
+dadra & nagar haveli
+dhenkanal
+thrissur
+gajapati
+chandigarh
+mau
+sikar
+jabalpur
+dharwad
+uttara kannada
+guntur
+east singhbhum
+medak
+mandya
+kannur
+saharsa
+balrampur
+cuddalore
+aligarh
+budgam
+rewa
+jhujhunu
+akola
+wokha
+cooch behar
+ananthnag
+cachar
+kandhamal
+siwan
+raebareli
+jaunpur
+lakhimpur
+kawardha
